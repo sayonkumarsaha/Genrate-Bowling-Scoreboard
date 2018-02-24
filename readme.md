@@ -1,7 +1,8 @@
 # **Bowling Scoreboard**
 
 
-Summer 2017: Single-player bowling simulation to display scoreboard as text update after every roll. Striving for good code-qualities: object-oriented programming	principles,	clean code,	design patterns, testing, etc.
+*Summer 2017:*
+Single-player bowling simulation to display scoreboard as text update after every roll. Striving for good code-qualities: object-oriented programming	principles,	clean code,	design patterns, testing, etc.
 
 ### Rules of the Game  
  
@@ -18,4 +19,4 @@ Summer 2017: Single-player bowling simulation to display scoreboard as text upda
 
 ### Test case
 
-Found in *Bowling Programming Task.pdf*
+Found in *test_example_scoreboard.png*
